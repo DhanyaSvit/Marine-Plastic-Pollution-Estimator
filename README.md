@@ -5,7 +5,7 @@ SDG 14 – Life Below Water
 
 ## Project Objective
 Estimate the metric tons of plastic waste entering the ocean based on:
-- Coastal population
+- Coastal population density
 - Mismanaged Waste Index
 
 ## Datasets Used
