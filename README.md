@@ -39,6 +39,10 @@ Random Forest Regressor
 
 Model_training_Random_forest.ipynb
 
+## Project Root Directory
+The main project folder is in:
+Downloads/Marine-Plastic-Pollution-Estimator-main
+
 ## Documentation
 
 The complete project documentation is available in:
